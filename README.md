@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Cristiane Delgado!
 
-<!--
-**byCrismaria/byCrismaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheira da Computação | 🛡️ QA apaixonada por qualidade de software 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+Sou uma engenheira da computação, que entre códigos e testes, encontrou sua missão: garantir que a tecnologia funcione com excelência e segurança, sem abrir mão da criatividade que move a inovação.
+
+Atualmente, atuo como Analista de Quality Assurance, onde aplico minhas habilidades para garantir a excelência dos produtos desenvolvidos.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Automação de Testes**: Cypress
+- **Linguagens**: JavaScript
+- **Controle de Versão**: Git, GitHub, GitLab
+- **Metodologias**: Agile, Scrum
+- **Ferramentas**: Postman
+
+---
+
+## 📌 Projetos em Destaque
+
+- [automation-cypress](https://github.com/byCrismaria/automation-cypress): Projeto de automação de testes utilizando Cypress.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=byCrismaria&show_icons=true&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/cristiane-delgado)
+- 📍 Brasil
+
+---
+
+> “Tudo o que temos de decidir é o que fazer com o tempo que nos é dado” – Gandalf
